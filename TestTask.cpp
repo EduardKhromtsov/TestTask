@@ -1,5 +1,4 @@
-﻿// Тестовое задание на вакансию "Специалист по внедрению ЭДО" в Тензор
-
+﻿
 #include <iostream>
 
 int SearchSubstringInString(const char* const cStr, const char* const cSubStr, int iNum);
