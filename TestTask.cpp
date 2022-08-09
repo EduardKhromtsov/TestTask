@@ -1,4 +1,4 @@
-
+// Комментарий.
 #include <iostream>
 
 int SearchSubstringInString(const char* const cStr, const char* const cSubStr, int iNum);
